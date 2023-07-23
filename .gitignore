@@ -1,0 +1,4 @@
+content/
+*.pdf
+*.txt
+python basics/.ipynb_checkpoints
