@@ -1,8 +1,10 @@
 content/
 *.pdf
 *.txt
+
 python basics/.ipynb_checkpoints
 2. Data Acquisition/.ipynb_checkpoints
 *.html
 android_files/
 android_version_history.csv
+2. Data Acquisition/scrapped_images/
