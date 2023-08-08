@@ -7,4 +7,6 @@ python basics/.ipynb_checkpoints
 *.html
 android_files/
 android_version_history.csv
+probability Distribution & statistics/
 2. Data Acquisition/scrapped_images/
+*.ipynb_checkpoints
